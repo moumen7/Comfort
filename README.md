@@ -1,4 +1,4 @@
-# Simple Note app made to practice retrofit,SQLite and mvvm
+# Simple Note app made to practice navigation,retrofit,SQLite and mvvm.
 
 
 ## Simple overview
